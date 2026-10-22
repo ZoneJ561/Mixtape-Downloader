@@ -1,18 +1,16 @@
 # Mixtape Downloader
 
-<p align="center">
-  <img src="logo.png" alt="Mixtape Downloader cassette logo" width="360">
-</p>
+<p align="center"><img src="logo.png" alt="Mixtape Downloader cassette logo" width="360"></p>
 
 **Audiomack and LiveMixtapes releases for Windows and Android.**
 
-[![Latest Release](https://img.shields.io/github/v/release/ZoneJ561/mixtape-downloader-releases?label=latest%20release)](https://github.com/ZoneJ561/mixtape-downloader-releases/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/ZoneJ561/Mixtape-Downloader?label=latest%20release)](https://github.com/ZoneJ561/Mixtape-Downloader/releases/latest)
 ![Windows](https://img.shields.io/badge/platform-Windows-0078D4)
 ![Android](https://img.shields.io/badge/platform-Android-3DDC84)
 
 ## Download
 
-Get the Windows installer and Android APK together from the [latest release](https://github.com/ZoneJ561/mixtape-downloader-releases/releases/latest). The source code is maintained in private repositories; this page contains the official installable files.
+Get the Windows installer and Android APK together from the [latest release](https://github.com/ZoneJ561/Mixtape-Downloader/releases/latest). Both files are attached to the same release. The source code is maintained in private repositories; this page contains the official installable files.
 
 ## Features
 
@@ -40,7 +38,7 @@ Get the Windows installer and Android APK together from the [latest release](htt
 
 ## Getting Started
 
-1. Download the installer or APK from the [Releases page](https://github.com/ZoneJ561/mixtape-downloader-releases/releases).
+1. Download the installer or APK from the [Releases page](https://github.com/ZoneJ561/Mixtape-Downloader/releases).
 2. Open the app and choose a music folder.
 3. Paste a supported release link, select tracks or the full release, and choose **Download**.
 
