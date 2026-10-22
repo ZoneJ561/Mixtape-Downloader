@@ -5,8 +5,8 @@
 **Audiomack and LiveMixtapes releases for Windows and Android.**
 
 [![Latest Release](https://img.shields.io/github/v/release/ZoneJ561/Mixtape-Downloader?label=latest%20release)](https://github.com/ZoneJ561/Mixtape-Downloader/releases/latest)
-![Windows](https://img.shields.io/badge/platform-Windows-0078D4)
-![Android](https://img.shields.io/badge/platform-Android-3DDC84)
+[![Windows 1.2.4](https://img.shields.io/badge/Windows-1.2.4-0078D4)](https://github.com/ZoneJ561/Mixtape-Downloader/releases/latest)
+[![Android 1.0.10](https://img.shields.io/badge/Android-1.0.10-3DDC84)](https://github.com/ZoneJ561/Mixtape-Downloader/releases/latest)
 
 ## Download
 
